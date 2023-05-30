@@ -1,5 +1,5 @@
-import Ship from './Ship';
-import Gameboard from './Gameboard';
+import Ship from '../Ship';
+import Gameboard from '../Gameboard';
 
 let player1board = Gameboard();
 let carrier = Ship(5);

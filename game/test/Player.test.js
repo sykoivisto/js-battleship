@@ -1,5 +1,5 @@
-import Ship from './Ship';
-import Player from './Player';
+import Ship from '../Ship';
+import Player from '../Player';
 
 let player1 = Player();
 let destroyer = Ship(2);

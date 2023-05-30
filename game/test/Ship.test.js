@@ -1,4 +1,4 @@
-import Ship from './Ship';
+import Ship from '../Ship';
 
 let carrier = Ship(5);
 
